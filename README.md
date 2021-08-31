@@ -26,6 +26,7 @@
 <a href="https://www.behance.net/helenamiranda1"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
 </div>
 
+   ![Snake animation](https://github.com/hmiranda99/hmiranda99/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **hmiranda99/hmiranda99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
