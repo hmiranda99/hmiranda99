@@ -1,4 +1,4 @@
-### Oii! Eu sou a Helena Miranda 👋
+### Oii! Eu sou a Helena Miranda  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <div>
   <a href="https://github.com/hmiranda99">
