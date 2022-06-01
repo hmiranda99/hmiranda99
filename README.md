@@ -1,4 +1,4 @@
-### <div align=center> Oii! Eu sou a Helena Miranda  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></div>
+### <div align=center> Oii! Eu sou a Helena Miranda  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"></div>
 <div align=center>
   <a href="https://github.com/hmiranda99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmiranda99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
